@@ -1,6 +1,3 @@
-Thanks for the update! Here's a personalized `README.md` file you can use for your GitHub repository based on your project and learning journey:
-
----
 
 # 🛍️ Retail Sales Analysis – SQL Project
 
